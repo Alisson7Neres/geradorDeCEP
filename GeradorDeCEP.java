@@ -1,3 +1,4 @@
+@Entity
 public class Pessoa{
 
 	private String cep;
